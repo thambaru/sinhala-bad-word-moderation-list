@@ -1,4 +1,4 @@
-# Sinhala and Singlish bad word Moderation list
+# Sinhala Unicode and Singlish bad word Moderation list
 
 Use this list to moderate your facebook pages, websites etc. to prevent harmful content/comments.
 
